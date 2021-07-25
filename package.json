@@ -1,0 +1,28 @@
+{
+  "name": "todolistapi",
+  "version": "1.0.0",
+  "description": "RESTful todoListApi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codemaker2015/rest-todo-list-api.git"
+  },
+  "keywords": [
+    "REST",
+    "TODO"
+  ],
+  "author": "Vishnu Sivan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codemaker2015/rest-todo-list-api/issues"
+  },
+  "homepage": "https://github.com/codemaker2015/rest-todo-list-api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.13.3"
+  }
+}
